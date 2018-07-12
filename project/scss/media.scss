@@ -1,0 +1,33 @@
+@media screen and (max-width:1050px){
+    .home_info{
+        padding: 0;
+        margin: 0;
+    }
+
+}
+@media screen and (max-width:1150px){
+    .header_prsice{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        height: 100px;
+    .der{
+        padding: 0;
+        margin: 0;
+    }
+    .der_new{
+        margin: 0;
+        padding: 0;
+    }
+    }
+}
+@media screen and (max-width:1050px){
+    .block3{
+        
+        grid-template-rows: 1fr 400px;
+
+    }
+}
+
